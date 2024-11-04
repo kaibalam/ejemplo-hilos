@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÊË¨¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ýÌí ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î˜ú®úÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®Ÿž£8ìÞÃ§ˆ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Äúþ€ùÿÿÿÿ8žÛÅ§ˆ1
+G
+java:S1128",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ

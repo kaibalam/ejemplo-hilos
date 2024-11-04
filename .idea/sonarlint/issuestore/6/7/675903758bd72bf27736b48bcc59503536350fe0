@@ -1,0 +1,5 @@
+
+Œ
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+V	java:S125	"<This block of commented-out lines of code should be removed.(Ó¾ä­üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×“Ù
